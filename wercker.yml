@@ -1,5 +1,5 @@
 # docker box definition
-box: java
+box: mihkels/java8-oracle
 
 # defining the dev pipeline
 dev:
